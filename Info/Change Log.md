@@ -1,3 +1,8 @@
+**1/17/2023**
+Session 30 added
+Git source control added
+
+---
 **1/10/2023**
 Session 29 added
 Sessions moved to Tuesdays

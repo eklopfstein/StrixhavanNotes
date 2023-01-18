@@ -6,6 +6,7 @@ tags:
 Tribe had plain ramen from a corner store for dinner
 ## [[Oracle]] Trip
 
+---
 ### Day One
 To prepare for the trip up the mountain we go to the store and buy some rations for the weekend.
 
@@ -19,10 +20,15 @@ We continue on our trip up the mountain. We encounter 3 corpses in the road. All
 
 We reach some more well kept staircase area, decide to stop to rest for the first day. [[Anuva Moonbeam|Anuva]] sets up an alarm around the camp site. [[Katherine of Goldenwell|Kat]] and [[Certiorari of De Novo|Legion]] do watch for the first shift. They talk about sleeping and sleeping patterns of different cultures, the pros and cons. Legions leaves to sleep after first shift as Kat stays on watch.
 
+---
 ### Day Two
 We head up the stairs in the morning, they branch off in multiple pathways. [[Certiorari of De Novo|Legion]] uses their little guy to see where they all lead. 4 paths lead to caves and one continues up the mountain. Legion sends their little guy and raven familiar into two of the caves. They find a gigantic humanoid statues at the end of them. Sent down the other 2 caves and saw the same statue. The statue seems to be related to a history of some tools the school's overseer can control. We are going to pass on investigating on these caves and statues. 
 
-We continue walking for majority of the day. Late evening we start to approach a small wooden cabin. [[Certiorari of De Novo|Legion]] casts detect magic on their little guy to investigate the house. It's radiating with magic, upon touching it the [[Oracle]] appears behind us and asks why we are up here. 
+We continue walking for majority of the day. Late evening we start to approach a small wooden cabin. [[Certiorari of De Novo|Legion]] casts detect magic on their little guy to investigate the house. It's radiating with magic of all schools. Upon touching it, the [[Oracle]] appears behind us and asks why we are up here. 
 
 [[Vela Callisto|Vela]] brings out the petition to make Celeste a full student. [[Katherine of Goldenwell|Kat]] right away tells the Oracle that her signature on the petition is forged as she did not sign it.
-We tell the [[Oracle]] about how we were present at [[Professor Huffdinger|Huffdinger]]'s
+We introduce [[Anuva Moonbeam|Anuva]] and [[Seraphine Amsodeus|Seraphine]] to the [[Oracle]] and explain why they are with us. Lie about our meeting with [[Grayson]] and claim we were trying to find him and saw him but he teleported away.
+We tell the [[Oracle]] about how we were present at [[Professor Huffdinger|Huffdinger]]'s death, lied about why he was being attacked and why we were there. Said he went off on his own one night and returned worried about something and that he was going to tell us about it which is why we were heading towards him when he was attacked. 
+With help from [[Katherine of Goldenwell|Kat]], [[Certiorari of De Novo|Legion]] was able to sell this lie.
+
+---
