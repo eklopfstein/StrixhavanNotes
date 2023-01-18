@@ -1,0 +1,5 @@
+---
+tags:
+  - Place
+---
+Clothing store

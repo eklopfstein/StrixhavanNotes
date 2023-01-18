@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "f936c843b147410a",
+    "type": "split",
+    "children": [
+      {
+        "id": "929267b13ddc517b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aafdf1a9496aaf34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Year 1/Level 6/Session 28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae64a4f5b92d951e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Year 1/Level 7/Session 30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b56e1681b6ecfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Vela Callisto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "054eddcefbbd0836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Seraphine Amsodeus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d7e53cb6b5002c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Info/Change Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c835ad7fd5faa97",
+    "type": "split",
+    "children": [
+      {
+        "id": "becf2abd90125503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26b679aa4dbdf671",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bc012e2817ab0c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b94f6f6880457ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "febe2db1de4b7112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f0a50d5bab4869",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Year 1/Level 7/Session 30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eff0315c53f855f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a33df5a2b262b189",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "26b679aa4dbdf671",
+  "lastOpenFiles": [
+    "Info/Change Log.md",
+    "Info/README.md",
+    "Sessions/Year 1/Level 7/Session 30.md",
+    "Sessions/Year 1/Level 6/Session 28.md",
+    "Sessions/Year 1/Level 7/Session 29.md",
+    "PCs/Vela Callisto.md",
+    "PCs/Gone/Adrian.md",
+    "PCs/Seraphine Amsodeus.md",
+    "PCs/Gone/Aster.md",
+    "PCs/Gone/Nebin.md"
+  ]
+}
