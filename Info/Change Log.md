@@ -1,3 +1,9 @@
+**2/7/2023**
+Session 31 added
+The Dark One updated
+Oracle updated
+
+---
 **1/17/2023**
 Session 30 added
 Git source control added
