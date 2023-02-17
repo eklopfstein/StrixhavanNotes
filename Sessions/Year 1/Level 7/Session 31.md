@@ -3,7 +3,7 @@ tags:
   - Group
   - Snarl
 ---
-Tribe was late, unsure of dinner choice
+Tribe was late, unsure of dinner choice (bag of chips)
 
 ## [[Oracle]] Convo
 After the failed attempt to get the [[Oracle]] to sign the petition, [[Vela Callisto|Vela]] and [[Tasha Goldenwell|Tasha]] move on to trying to get the founders, dragons, to sign the petition.

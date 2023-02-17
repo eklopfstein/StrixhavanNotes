@@ -1,3 +1,13 @@
+**2/16/2023**
+Session 32 added
+Ubbe restored
+Anuva moved to gone
+Elvian added
+Professor Makayla updated
+Mask Guys updated
+Teacher's Council updated
+
+---
 **2/7/2023**
 Session 31 added
 The Dark One updated

@@ -22,5 +22,8 @@ Mask they wear changes their voice.
 
 Their necklace is how they get their armor on and off.
 
+
+[[Professor Makayla]] is a spy for this group 
+
 *Tags*
 #NPC #Group #BBEG

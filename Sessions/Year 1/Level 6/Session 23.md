@@ -11,7 +11,7 @@ We decide to leave [[Ubbe Blackshield|Ubbe]] in the church with the smell of dru
 
 The inquisitor ended up taking Ubbe hostage and plans to kill him if he doesn't give good information. He ends up telling her the name of [[The Bishop]] and a lot of details about how to get to him.
 
-[[Certiorari of De Novo|Legion]] decides that we need to pretend like we found out that the Inquisitor found out about [[The Bishop]] and such on their own and we found a report on it. We walk to [[Grayson]]'s dorm room and on the way [[Tasha Goldenwell|Tasha]] gives [[Ubbe Blackshield|Ubbe]] a run down on everything we have don this year. He is told that he can not share any information with anyone outside of this group. Not even his mom.
+[[Certiorari of De Novo|Legion]] decides that we need to pretend like we found out that the Inquisitor found out about [[The Bishop]] and such on their own and we found a report on it. We walk to [[Grayson]]'s dorm room and on the way [[Tasha Goldenwell|Tasha]] gives [[Ubbe Blackshield|Ubbe]] a run down on everything we have done this year. He is told that he can not share any information with anyone outside of this group. Not even his mom.
 
 We decide that we need to rest. [[Certiorari of De Novo|Legion]] has their little guy watch [[Grayson]]'s room as they rest. [[Tasha Goldenwell|Tasha]] and [[Ubbe Blackshield|Ubbe]] decide to go to [[Kermit's Girls]].
 

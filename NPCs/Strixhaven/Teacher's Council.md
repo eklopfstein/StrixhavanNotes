@@ -10,7 +10,7 @@ At least 12 people.
 Informed us that there are at least 5 groups trying to take over the snarl. They are 1 of the 5.
 
 ## Members
-[[Professor Makayla]]
+[[Professor Makayla]] ([[Mask guys]] spy)
 [[Professor Huffdinger]] (deceased)
 [[Dean Long]]
 [[Oracle]]

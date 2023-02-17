@@ -4,8 +4,9 @@ tags:
   - NPC
   - Professor
   - History
+  - Spy
 ---
-[[Vela Callisto]]'s advisor
+[[Tasha Goldenwell]]'s advisor
 Teaches first year [[History]] class 
-Member of [[Teacher's Council]]
+Member of [[Teacher's Council]] and spy for [[Mask guys]]
 Can speak to the dead
