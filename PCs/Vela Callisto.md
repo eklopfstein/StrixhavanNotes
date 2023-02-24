@@ -13,6 +13,7 @@ main type of spell: Control/Utility
 reason for attending: She wants to learn about how Celeste came into being and why he's attached to her
 family: Lesser nobles of from the Fire Kingdom ([[Cinder]])
 Drake summon: Moonstone dragon (Celeste)
+Advisor: [[Session 0]] to present [[Professor Makayla]]
 
 ### Year 1
 **[[Classes]]**

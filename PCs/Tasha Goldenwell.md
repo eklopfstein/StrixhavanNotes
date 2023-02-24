@@ -10,6 +10,7 @@ House: [[Prismari]]
 pronouns: she/her 
 main type of spell: Evocation
 reason for attending: Protection
+Advisor: [[Session 0]] to present [[Professor Makayla]]
 
 ### Sus Things Tasha Wants
 - [[Grayson]]'s long hard precious rod, their words not mine

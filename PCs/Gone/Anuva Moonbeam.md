@@ -2,6 +2,7 @@
 aliases: [Anuva, Moonbeam]
 tags:
   - PC
+  - Gone
 ---
 ### Description
 race: Fairy

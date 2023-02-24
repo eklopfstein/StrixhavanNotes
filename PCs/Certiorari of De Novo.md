@@ -12,6 +12,7 @@ main type of spell: DPR and social
 reason for attending: Raise the sea level back to where it was
 family: basically a cult of his race hidden away from the world
 Familiar: Fey Raven
+Advisor: [[Session 32]] to present [[Elvian]]
 
 Very tall and skinny
 Very blue

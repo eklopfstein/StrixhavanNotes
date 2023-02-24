@@ -2,6 +2,7 @@
 aliases: [Seraphine, Amsodeus]
 tags:
   - PC
+  - Gone
 ---
 ### Description
 Race: High Elf (Sun) 
