@@ -1,3 +1,8 @@
+---
+tags:
+  - Group
+  - Spy
+---
 Tribe was mega late so we ran a late and short session
 
 
